@@ -14,7 +14,7 @@ It is a simple *Command-Line Calculator* built using *Python* that performs basi
 ## 💻 How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/task1-calculator.git
+   git clone https://github.com/Nivethitha-A/task1-calculator.git
 
 2. Navigate to the folder:
 
